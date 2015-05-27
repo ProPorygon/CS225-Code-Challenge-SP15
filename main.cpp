@@ -1,3 +1,5 @@
+//Authors: Kevin Renner, Ziwei Ba
+
 #include "png.h"
 #include "rgbapixel.h"
 #include <vector>
